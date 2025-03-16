@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -800,5 +800,5 @@
 						$main._show(location.hash.substr(1), true);
 					});
 
->>>>>>> ef43a796c8b011497ea868ef335ac0ecdb469ad0
+
 })(jQuery);

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /// Removes a specific item from a list.
 /// @author Hugo Giraudel
 /// @param {list} $list List.
@@ -178,5 +178,5 @@
 /// @return {string} Value.
 @function _size($keys...) {
 	@return val($size, $keys...);
->>>>>>> ef43a796c8b011497ea868ef335ac0ecdb469ad0
+
 }
